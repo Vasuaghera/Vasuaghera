@@ -1,22 +1,31 @@
-<h1 align="center">Hi, I'm Vasu Aghera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Vasu Aghera 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=vasuaghera&label=Profile%20views&color=0047AB&style=plastic%253F" alt="vasuaghera" height="25px" width="160px"/> 
+  <img src="https://komarev.com/ghpvc/?username=vasuaghera&label=Profile%20views&color=0047AB&style=plastic" alt="vasuaghera" height="25px" width="160px"/> 
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-<br><br>
 
-- :mortar_board: I am a pre-final year Computer Science & Engineering student at [Nirma University](https://nirmauni.ac.in/).
-- :technologist: I enjoy solving problems using software solutions.
-- :computer: I am active in competitive programming on platforms like Codeforces, LeetCode, and Codechef.
-- :student: Currently learning Computer Science concepts and Software Engineering practices.
-- :nerd_face: Always eager to learn new technologies and improve my skills.
-- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/vasu-aghera-375052251/).
-<br>
+<p >
+  <img src="https://i.gifer.com/H9zM.gif" width="200" height="312" alt="GIF Description" align="right">
+  <span>
+    <br>
+    - :mortar_board: I am a pre-final year Computer Science & Engineering student at <a href="https://nirmauni.ac.in/">Nirma University</a>.<br>
+    - :technologist: I enjoy solving problems using software solutions.<br>
+    - :computer: I am active in competitive programming on platforms like Codeforces, LeetCode, and Codechef.<br>
+    - :student: Currently learning Computer Science concepts and Software Engineering practices.<br>
+    - :nerd_face: Always eager to learn new technologies and improve my skills.<br>
+    - :boom: You can visit <a href="https://www.linkedin.com/in/vasu-aghera-375052251/">MY LINKEDIN PROFILE</a>.<br>
+  </span>
+</p>
+
+<br clear="both"><br>
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> My Competitive Programming Profiles
 

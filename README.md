@@ -5,8 +5,7 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Competitive+Programmer;DSA+and+Development+Enthusiast;Always+Learning+New+Things;Computer+Science+Student&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000
-" alt="Example Usage - README Typing SVG">
+  
 </p>
 
 <!-- markdownlint-enable MD033 -->
